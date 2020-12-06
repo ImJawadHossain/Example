@@ -3,7 +3,7 @@ from numpy import *
 
 # array Function
 """
-stroll = array([1, 8, 'jawad', '48.84'])
+stroll = array([1, 8, 'jawad', 48.84])
 ln = len(stroll)
 for i in range(ln):
     print('index', i, '=', stroll[i])
